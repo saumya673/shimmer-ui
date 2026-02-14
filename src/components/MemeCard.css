@@ -1,0 +1,15 @@
+.meme-card {
+    display: block;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    gap: 20px;
+    border: 1px solid black;
+}
+
+.meme-title{
+    display: flex;
+    flex-wrap: wrap;
+}
